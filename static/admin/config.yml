@@ -1,5 +1,5 @@
 backend:
-  name: netlify-cms
+  name: test-repo
   repo: nicholaai/netlify-cms
 
 media_folder: static/assets
